@@ -23,7 +23,7 @@ Physician-Researcher (M.D., B.Med.Lab.Sc.) with expertise in clinical research c
 - **Doctor of Medicine (M.D.)** | Shiraz University of Medical Sciences, Iran (_2017–2024_)
   - CGPA: 17.8/20
   - Thesis: _Evaluation of Hemostatic Efficacy and Biocompatibility of a Novel Cellulose-Based Hemostat, AriClot™, in Trauma Animal Models: A Comparative Study with BloodSTOP iX®_
-  - Supervisor: Dr. Hamid Mohammadi
+  - Supervisor: Dr. Hamid Mohammadi (_SUMS Vice Chancellor of Research and Technology Deputy; Associate Professor of Pediatric Cardiology_)
 
 - **Bachelor in Medical Laboratory Sciences** | Iran University of Medical Sciences, Iran (_2013–2016_)
 
@@ -38,6 +38,7 @@ Physician-Researcher (M.D., B.Med.Lab.Sc.) with expertise in clinical research c
 **Clinical Research Coordinator** @ Shahid Rajaee Surgery Emergency Center, SUMS (_July 2024 – October 2024_)
 - Coordinated a randomized clinical trial on advanced topical hemostatic agents in a high-volume trauma center
 - Achieved efficient patient recruitment, consent acquisition, and staff training; maintained high-quality data records and drafted detailed study reports
+- Key Achievement: The trial led to a peer-reviewed publication in European Journal of Trauma and Emergency Surgery (2026): [Abdolrahimzadeh Fard, H., Paydar, S., Hosseini, H. et al. Efficacy of AriClot™ hemostatic powder versus standard pressure dressing for bleeding control in civilian penetrating trauma: A randomized controlled trial.](https://doi.org/10.1007/s00068-026-03094-8)
 
 **Project Coordinator and Methodology Designer** @ Data Registry for Children with Hirschsprung's Disease, SUMS (_December 2023 – October 2024_)
 - Initiated and designed a nationwide 10-year cohort study investigating outcomes in children with Hirschsprung's disease
@@ -54,7 +55,7 @@ Physician-Researcher (M.D., B.Med.Lab.Sc.) with expertise in clinical research c
 ## Projects
 
 ### Machine Learning for Antimicrobial Resistance Prediction in Surgical ICU
-[Publication](https://doi.org/10.1186/s12879-025-11900-8)
+[Published](https://doi.org/10.1186/s12879-025-11900-8)
 
 Designed and led a retrospective observational study applying **machine learning** to predict multidrug-resistant infections in surgical ICU patients. Identified critical risk factors using **SHAP-based feature importance analysis**, providing actionable insights for clinical decision-making.
 
